@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdel Anaruz (@anaruz-source)
-- 👀 I’m interested in Javascript, ReactJS, Python, PHP, Symfony(4.4,5), Native-Cloud, Machine-Learning an AI
+- 👀 I’m interested in Javascript, ReactJS, Python, PHP, Symfony(4.4,5.4), Native-Cloud, Machine-Learning an AI
 - 🌱 I’m currently learning Native Cloud(Suse)
 - 💞️ I’m looking to collaborate on what I mentioned above
 - 📫 How to reach me abdelhaq.fste@gmail.com
