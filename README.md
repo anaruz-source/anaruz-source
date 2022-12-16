@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abdel Anaruz (@anaruz-source)
-- 👀 I’m interested in Javascript, ReactJS, Python, PHP, Symfony(4.4,5.4), Native-Cloud, Machine-Learning an AI
-- 🌱 I’m currently learning Native Cloud(Suse)
+- 👋 Hi, I’m Abdelhaq KHARROU (@anaruz-source)
+- 👀 I speak Javascript, ReactJS, Node.js (Express and Fastify).I can handle PHP, Symfony and Python.
+- 🌱 Currently enrolled in Cloud development Nanodegre(Udacity)
 - 💞️ I’m looking to collaborate on what I mentioned above
 - 📫 How to reach me abdelhaq.fste@gmail.com
 
