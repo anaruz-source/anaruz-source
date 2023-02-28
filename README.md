@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abdelhaq KHARROU (@anaruz-source)
-- 👀 I speak Javascript, ReactJS, Node.js (Express and Fastify).I can handle PHP, Symfony and Python.
-- 🌱 Currently enrolled in Cloud development Nanodegre(Udacity)
+- 👀 I speak Javascript, ReactJS, Node.js (Express and Fastify, AWS Lambda)
+- 🌱 Currently enrolled in Cloud development Nanodegre(Udacity), 
+- 🌱 Frontend nano degree from Udacity.
 - 💞️ I’m looking to collaborate on what I mentioned above
 - 📫 How to reach me abdelhaq.fste@gmail.com
 
