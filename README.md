@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdelhaq KHARROU (@anaruz-source)
-- 👀 I speak Javascript, ReactJS, Node.js (Express and Fastify, AWS Lambda)
-- 🌱 Currently enrolled in Cloud development Nanodegre(Udacity), 
-- 🌱 Frontend nano degree from Udacity.
-- 💞️ I’m looking to collaborate on what I mentioned above
+- 👀  Cloud developer and AIML enthousiast 
+- 🌱 4 Nanodegres from Udacity, including 2 in deep learning using Pytorch
+- 🌱 Currently involoved in 16 month datascience program.
+- 💞️ Collaborating on 2 omendas' local chapters 
 - 📫 How to reach me abdelhaq.fste@gmail.com
 
 <!---
